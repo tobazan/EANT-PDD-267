@@ -1,0 +1,107 @@
+ID, DESCRIPCION, MARCA, PRECIO REG, PRECIO PROMO, DESC PROMO, PRECIO/LT, TIPO PRODUCTO
+1,Cerveza negra Quilmes bock 1 l.,Quilmes,,Null,Null,($131,00 x 1 L.),Cerveza negra
+2,Cerveza negra Schneider 473 cc.,Schneider,,Null,Null,($165,96 x 1 L.),Cerveza negra
+3,Cerveza negra Andes Origen 1 l.,Andes,$201,50,$161,20,Por unidad Llevando 2 ,($201,50 x 1 L.),Cerveza negra
+4,Cerveza negra Quilmes stout 1 l.,Quilmes,,Null,Null,($131,00 x 1 L.),Cerveza negra
+5,Cerveza negra Stella Artois 975 cc.,Stella Artois,,Null,Null,($225,33 x 1 L.),Cerveza negra
+6,Cerveza negra Stella Artois noire 473 cc. 6 u.,Stella Artois,,Null,Null,($243,83 x 1 L.),Cerveza negra
+7,Cerveza blanca Grolsch retornable 473 cc.,Grolsch,,Null,Null,($287,53 x 1 L.),Cerveza rubia
+8,Cerveza rubia Corona 710 cc.,Corona,,Null,Null,($276,06 x 1 L.),Cerveza rubia
+9,Cerveza rubia Rabieta american Ipa 710 cc.,Rabieta,,Null,Null,($301,41 x 1 L.),Cerveza rubia
+10,Cerveza rubia Imperial Apa 473 cc.,Imperial,,Null,Null,($287,53 x 1 L.),Cerveza rubia
+11,Cerveza rubia Rabieta golden ale 710 cc.,Rabieta,,Null,Null,($301,41 x 1 L.),Cerveza rubia
+12,Cerveza negra Mecklenburger premium dunkel 500 cc.,Mecklenburger,,Null,Null,($194,00 x 1 L.),Cerveza rubia
+13,Cerveza rubia Patagonia bohemian 6 u. x 473 cc.,Patagonia,,Null,Null,($308,32 x 1 L.),Cerveza rubia
+14,Cerveza rubia Imperial Apa 1 l.,Imperial,,Null,Null,($197,50 x 1 L.),Cerveza rubia
+15,Cerveza rubia Corona 330 cc.,Corona,,Null,Null,($345,45 x 1 L.),Cerveza rubia
+16,Cerveza rubia Andes origen ipa 340 cc.,Andes,$59,50,$47,60,Por unidad Llevando 2 ,($175,00 x 1 L.),Cerveza rubia
+17,Cerveza rubia Rabieta golden ale 473 cc.,Rabieta,,Null,Null,($333,72 x 1 L.),Cerveza rubia
+18,Cerveza rubia Rabieta ipa 473 cc.,Rabieta,,Null,Null,($333,72 x 1 L.),Cerveza rubia
+19,Cerveza rubia Heineken 710 cc.,Heineken,,Null,Null,($247,89 x 1 L.),Cerveza rubia
+20,Cerveza rubia Budweiser 710 cc.,Budweiser,$146,00,$116,80,Por unidad Llevando 2 ,($205,63 x 1 L.),Cerveza rubia
+21,Cerveza rubia Imperial golden 473 cc.,Imperial,,Null,Null,($210,36 x 1 L.),Cerveza rubia
+22,Cerveza rubia Quilmes 6 x 473 cc.,Quilmes,,Null,Null,($145,35 x 1 L.),Cerveza rubia
+23,Cerveza rubia Quilmes clásica 1 l.,Quilmes,,Null,Null,($120,00 x 1 L.),Cerveza rubia
+24,Cerveza rubia Temple roja 473 cc. 6 u.,Temple,,Null,Null,($305,85 x 1 L.),Cerveza rubia
+25,Cerveza rubia Grolsch retornable 925 cc.,Grolsch,,Null,Null,($204,43 x 1 L.),Cerveza rubia
+26,Cerveza rubia Patagonia 24.7 IPA con sauco 730 cc.,Patagonia,,Null,Null,($314,38 x 1 L.),Cerveza rubia
+27,Cerveza rubia Patagonia kune 730 cc.,Patagonia,,Null,Null,($314,38 x 1 L.),Cerveza rubia
+28,Cerveza rubia Mecklenburger pilsener 330 cc.,Mecklenburger,,Null,Null,($196,97 x 1 L.),Cerveza rubia
+29,Cerveza rubia Warsteiner 473 cc.,Warsteiner,,Null,Null,($215,64 x 1 L.),Cerveza rubia
+30,Cerveza rubia Budweiser 1 l.,Budweiser,$156,50,$125,20,Por unidad Llevando 2 ,($156,50 x 1 L.),Cerveza rubia
+31,Cerveza rubia Brahma 6 x 473 cc.,Brahma,,Null,Null,($153,28 x 1 L.),Cerveza rubia
+32,Cerveza rubia Brahma 1 l.,Brahma,$144,00,$115,20,Por unidad Llevando 2 ,($144,00 x 1 L.),Cerveza rubia
+33,Cerveza rubia Brahma 473 cc.,Brahma,,Null,Null,($183,93 x 1 L.),Cerveza rubia
+34,Cerveza rubia Brahma 340 cc.,Brahma,,Null,Null,($114,71 x 1 L.),Cerveza rubia
+35,Cerveza rubia Stella Artois 975 cc.,Stella Artois,,Null,Null,($225,33 x 1 L.),Cerveza rubia
+36,Cerveza roja Rabieta Irish molly otoole 710 cc.,Rabieta,,Null,Null,($301,41 x 1 L.),Cerveza roja
+37,Cerveza rubia Miller 710 cc.,Miller,,Null,Null,($207,04 x 1 L.),Cerveza rubia
+38,Cerveza rubia Patagonia hoppy lager 730 cc.,Patagonia,,Null,Null,($314,38 x 1 L.),Cerveza rubia
+39,Cerveza de arándano Peñon del águila 473 cc.,Peñon del Águila,,Null,Null,($461,31 x 1 L.),Cerveza rubia
+40,Cerveza roja Rabieta irish ale 473 cc.,Rabieta,,Null,Null,($333,72 x 1 L.),Cerveza roja
+41,Cerveza roja Rabieta ipa 473 cc.,Rabieta,,Null,Null,($333,72 x 1 L.),Cerveza roja
+42,Cerveza roja Andes Origen 1 l.,Andes,$201,50,$161,20,Por unidad Llevando 2 ,($201,50 x 1 L.),Cerveza roja
+43,Cerveza rubia Imperial lager 710 cc.,Imperial,,Null,Null,($192,96 x 1 L.),Cerveza rubia
+44,Cerveza roja Rabieta honey 473 cc.,Rabieta,,Null,Null,($333,72 x 1 L.),Cerveza roja
+45,Cerveza roja Rabieta ipa 710 cc.,Rabieta,,Null,Null,($301,41 x 1 L.),Cerveza roja
+46,Cerveza rubia Peñón del águila 473 cc.,Peñon del Águila,,Null,Null,($331,92 x 1 L.),Cerveza rubia
+47,Cerveza roja Patagonia amber lager 6 x 473 cc.,Patagonia,,Null,Null,($308,32 x 1 L.),Cerveza roja
+48,Cerveza roja Patagonia amber lager 730 cc.,Patagonia,,Null,Null,($314,38 x 1 L.),Cerveza roja
+49,Cerveza rubia Peñón del Águila hefeweizen 473 cc.,Peñon del Águila,,Null,Null,($331,92 x 1 L.),Cerveza rubia
+50,Cerveza rubia Peñón del Águila waldbier 473 cc.,Peñon del Águila,,Null,Null,($428,12 x 1 L.),Cerveza rubia
+51,Cerveza rubia Peñón del Águila honigbier 473 cc.,Peñon del Águila,,Null,Null,($331,92 x 1 L.),Cerveza rubia
+52,Cerveza roja Rabieta red honey 710 cc.,Rabieta,,Null,Null,($301,41 x 1 L.),Cerveza roja
+53,Cerveza roja Schneider 473 cc.,Schneider,,Null,Null,($165,96 x 1 L.),Cerveza roja
+54,Cerveza roja amber lager Imperial 1 l.,Imperial,,Null,Null,($182,75 x 1 L.),Cerveza roja
+55,Cerveza rubia Andes Origen 6 x 473 cc.,Andes,,Null,Null,($193,80 x 1 L.),Cerveza rubia
+56,Cerveza rubia Ipa Imperial 473 cc.,Imperial,,Null,Null,($287,53 x 1 L.),Cerveza rubia
+57,Cerveza rubia Peñón del Águila mexican lager 473 cc.,Peñon del Águila,,Null,Null,($331,92 x 1 L.),Cerveza rubia
+58,Cerveza rubia 1890 1 l.,1890,,Null,Null,($134,20 x 1 L.),Cerveza rubia
+59,Cerveza negra Peñón del Águila 473 cc.,Peñon del Águila,,Null,Null,($331,92 x 1 L.),Cerveza negra
+60,Cerveza de trigo Mecklenburger weibbier 500 cc.,Mecklenburger,,Null,Null,($194,00 x 1 L.),Cerveza rubia
+61,Cerveza rubia Patagonia bohemian 730 cc.,Patagonia,,Null,Null,($314,38 x 1 L.),Cerveza rubia
+62,Cerveza rubia Patagonia IPA 6 x 473 cc.,Patagonia,,Null,Null,($308,32 x 1 L.),Cerveza rubia
+63,Cerveza roja Andes Origen 6 x 473 cc.,Andes,,Null,Null,($221,99 x 1 L.),Cerveza roja
+64,Cerveza roja amber lager Imperial 473 cc. ,Imperial,,Null,Null,($245,24 x 1 L.),Cerveza roja
+65,Cerveza rubia Schneider 710 cc.,Schneider,,Null,Null,($158,45 x 1 L.),Cerveza rubia
+66,Cerveza rubia Iguana 970 cc.,Iguana,,Null,Null,($194,43 x 1 L.),Cerveza rubia
+67,Cerveza rubia Andes Origen 1 l.,Andes,$176,00,$140,80,Por unidad Llevando 2 ,($176,00 x 1 L.),Cerveza rubia
+68,Cerveza rubia ipa Imperial 1 l.,Imperial,,Null,Null,($195,10 x 1 L.),Cerveza rubia
+69,Cerveza rubia Heineken Retornable 1 l.,Heineken,,Null,Null,($199,50 x 1 L.),Cerveza rubia
+70,Cerveza rubia Heineken 330 cc.,Heineken,,Null,Null,($303,94 x 1 L.),Cerveza rubia
+71,Cerveza rubia Schneider 1 l.,Schneider,,Null,Null,($118,00 x 1 L.),Cerveza rubia
+72,Cerveza rubia Iguana 1 l.,Iguana,,Null,Null,($115,00 x 1 L.),Cerveza rubia
+73,Cerveza blanca pilsen Amstel botella 1 l.,Amstel,,Null,Null,($162,00 x 1 L.),Cerveza rubia
+74,Cerveza rubia lager Imperial 1 l.,Imperial,,Null,Null,($156,00 x 1 L.),Cerveza rubia
+75,Cerveza rubia Miller 473 cc.,Miller,,Null,Null,($224,10 x 1 L.),Cerveza rubia
+76,Cerveza rubia Schneider 473 cc.,Schneider,,Null,Null,($164,90 x 1 L.),Cerveza rubia
+77,Cerveza rubia Heineken 473 cc.,Heineken,,Null,Null,($269,56 x 1 L.),Cerveza rubia
+78,Cerveza rubia Sol 473 cc.,Sol,,Null,Null,($248,84 x 1 L.),Cerveza rubia
+79,Cerveza rubia Imperial 473 cc.,Imperial,,Null,Null,($210,36 x 1 L.),Cerveza rubia
+80,Cerveza rubia Andes IPA 6 X 473 cc.,Andes,,Null,Null,($221,99 x 1 L.),Cerveza rubia
+81,Cerveza rubia 1890 6 x 473 cc.,1890,,Null,Null,($144,47 x 1 L.),Cerveza rubia
+82,Cerveza rubia Stella Artois 330 cc.,Stella Artois,,Null,Null,($323,64 x 1 L.),Cerveza rubia
+83,Cerveza roja Quilmes red lager 1 l.,Quilmes,,Null,Null,($131,00 x 1 L.),Cerveza roja
+84,Cerveza rubia Isenbeck retornable 1 l.,Isenbeck,,Null,Null,($102,00 x 1 L.),Cerveza rubia
+85,Cerveza rubia Quilmes clásica 340 cc.,Quilmes,,Null,Null,($117,65 x 1 L.),Cerveza rubia
+86,Cerveza rubia bajo cero Quilmes 1 l.,Quilmes,,Null,Null,($97,40 x 1 L.),Cerveza rubia
+87,Cerveza rubia Andes IPA retornable 1 l.,Andes,$201,50,$161,20,Por unidad Llevando 2 ,($201,50 x 1 L.),Cerveza rubia
+88,Cerveza rubia Patagonia kune 6 u. x 473 cc.,Patagonia,,Null,Null,($308,32 x 1 L.),Cerveza rubia
+89,Cerveza rubia Blue Moon 355 cc.,Blue Moon,,Null,Null,($514,08 x 1 L.),Cerveza rubia
+90,Cerveza rubia Warsteiner retornable 1 l.,Warsteiner,,Null,Null,($157,00 x 1 L.),Cerveza rubia
+91,Cerveza Imperial amber lager 710 cc.,Imperial,,Null,Null,($228,45 x 1 L.),Cerveza rubia
+92,Cerveza Rabieta Helles Munich lata 473 cc.,Rabieta,,Null,Null,($332,98 x 1 L.),Cerveza rubia
+93,Cerveza Rabieta Helles Munich botella 710 cc.,Rabieta,,Null,Null,($285,07 x 1 L.),Cerveza rubia
+94,Cerveza Chachingo amber lata 473 cc.,Chachingo,,Null,Null,($432,14 x 1 L.),Cerveza amber ale
+95,Cerveza apa Rabieta botella 710 cc.,Rabieta,,Null,Null,($315,21 x 1 L.),Cerveza apa
+96,Cerveza golden ale Pampa brewing lata 473 cc.,Pampa,,Null,Null,($321,78 x 1 L.),Cerveza golden ale
+97,Cerveza pale ale Chachingo lata 473 cc.,Chachingo,,Null,Null,($432,14 x 1 L.),Cerveza pale ale
+98,Vaso cerveza pinta granel,Rigolleau,,Null,Null,($169,00 x 1 U.),Trago Largo
+99,Vaso cerveza bruselas 560 cc,Rigolleau,,Null,Null,($169,00 x 1 U.),Trago Largo
+100,Vaso cerveza amsterdam 325 cc.,Rigolleau,,Null,Null,($119,00 x 1 U.),Vaso
+101,Chopp de cerveza holandes 350 cc.,Rigolleau,,Null,Null,($209,00 x 1 U.),Chopp
+102,Chopp de cerveza holandes 350 cc.,Rigolleau,,Null,Null,($209,00 x 1 U.),Chopp
+103,Chopp de cerveza holandes 350 cc.,Rigolleau,,Null,Null,($209,00 x 1 U.),Chopp
+104,Chopp de cerveza holandes 350 cc.,Rigolleau,,Null,Null,($209,00 x 1 U.),Chopp
+105,Chopp de cerveza holandes 350 cc.,Rigolleau,,Null,Null,($209,00 x 1 U.),Chopp
+106,Chopp de cerveza holandes 350 cc.,Rigolleau,,Null,Null,($209,00 x 1 U.),Chopp

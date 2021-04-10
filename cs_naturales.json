@@ -1,0 +1,2096 @@
+[
+   {
+      "ID": 0,
+      "TITULO": "LA VIDA DE LOS INSECTOS .ABEJAS..",
+      "AUTOR": "Maeterlinck Maurice",
+      "AR$": "AR$ 2.390,00"
+   },
+   {
+      "ID": 1,
+      "TITULO": "GUIA DEL UNIVERSO PARA ESCEPTICOS",
+      "AUTOR": "Novella Steven",
+      "AR$": "AR$ 1.890,00"
+   },
+   {
+      "ID": 2,
+      "TITULO": "RAREZAS GEOGRAFICAS",
+      "AUTOR": "Marchon Olivier",
+      "AR$": "AR$ 890,00"
+   },
+   {
+      "ID": 3,
+      "TITULO": "MOLECULAS ,CELULAS, TEJIDOS",
+      "AUTOR": "Alonso Daniel",
+      "AR$": "AR$ 650,00"
+   },
+   {
+      "ID": 4,
+      "TITULO": "DESCRIPCION DE PATAGONIA Y DE L..",
+      "AUTOR": "Falkner Thomas",
+      "AR$": "AR$ 780,00"
+   },
+   {
+      "ID": 5,
+      "TITULO": "MANUAL DE CULTIVO FORESTACION D..",
+      "AUTOR": "De Luca Natalia",
+      "AR$": "AR$ 1.600,00"
+   },
+   {
+      "ID": 6,
+      "TITULO": "LIBROS DE FIGURITAS DE AVES DEL..",
+      "AUTOR": "Chetoba Walter",
+      "AR$": "AR$ 1.050,00"
+   },
+   {
+      "ID": 7,
+      "TITULO": "BIOETICA",
+      "AUTOR": "Gerosa Roberto Mario",
+      "AR$": "AR$ 490,00"
+   },
+   {
+      "ID": 8,
+      "TITULO": "EL PIVOTE ANTARTICO .SUPERVIVEN..",
+      "AUTOR": "Damsky Jose Maria",
+      "AR$": "AR$ 675,00"
+   },
+   {
+      "ID": 9,
+      "TITULO": "LAS SOCIEDADES DE LAS CELULAS",
+      "AUTOR": "Sonnenschein Soto",
+      "AR$": "AR$ 923,00"
+   },
+   {
+      "ID": 10,
+      "TITULO": "SENDEROS DEL MUNDO",
+      "AUTOR": "Harvey David",
+      "AR$": "AR$ 3.890,00"
+   },
+   {
+      "ID": 11,
+      "TITULO": "LA CELULA",
+      "AUTOR": "Challoner Jack",
+      "AR$": "AR$ 3.755,00"
+   },
+   {
+      "ID": 12,
+      "TITULO": "OCEANOGRAFIA Y SATELITES",
+      "AUTOR": "Garcia Soto Carlos",
+      "AR$": "AR$ 3.460,50"
+   },
+   {
+      "ID": 13,
+      "TITULO": "TRILOBITES",
+      "AUTOR": "Fortey Richard",
+      "AR$": "AR$ 3.283,00"
+   },
+   {
+      "ID": 14,
+      "TITULO": "EL YETI Y OTROS BICHOS VAYA TIMO!",
+      "AUTOR": "Chorda Navarro Carlos",
+      "AR$": "AR$ 2.246,00"
+   },
+   {
+      "ID": 15,
+      "TITULO": "NOSOTROS CREAMOS EL DELTA .HABI..",
+      "AUTOR": "Pizarro Cynthia",
+      "AR$": "AR$ 775,00"
+   },
+   {
+      "ID": 16,
+      "TITULO": "INTRODUCCION A LA BIOETICA DEL..",
+      "AUTOR": "Aa.Vv",
+      "AR$": "AR$ 990,00"
+   },
+   {
+      "ID": 17,
+      "TITULO": "BIOETICA CONFLICTOS Y DILEMAS",
+      "AUTOR": "Aa.Vv",
+      "AR$": "AR$ 650,00"
+   },
+   {
+      "ID": 18,
+      "TITULO": "EL CONDOR ANDINO EN LAS SIERRAS..",
+      "AUTOR": "Gargiulo Carolina",
+      "AR$": "AR$ 1.300,00"
+   },
+   {
+      "ID": 19,
+      "TITULO": "GUIA DE HUELLAS DE LOS MAMIFERO..",
+      "AUTOR": "De Angelo Carlos",
+      "AR$": "AR$ 750,00"
+   },
+   {
+      "ID": 20,
+      "TITULO": "LA MAGIA DEL CONDOR",
+      "AUTOR": "Gordillo Sandra",
+      "AR$": "AR$ 700,00"
+   },
+   {
+      "ID": 21,
+      "TITULO": "BIRD CHECK LIST",
+      "AUTOR": "Matarasso Horacio Fabian",
+      "AR$": "AR$ 300,00"
+   },
+   {
+      "ID": 22,
+      "TITULO": "FUNDAMENTOS DE BIOLOGIA",
+      "AUTOR": "Freeman Scott",
+      "AR$": "AR$ 4.226,00"
+   },
+   {
+      "ID": 23,
+      "TITULO": "LA BELLEZA DEL UNIVERSO",
+      "AUTOR": "Klein Stefan",
+      "AR$": "AR$ 1.380,00"
+   },
+   {
+      "ID": 24,
+      "TITULO": "EL GUSTO POR LA BELLEZA",
+      "AUTOR": "Ryan Michael J.",
+      "AR$": "AR$ 3.258,50"
+   },
+   {
+      "ID": 25,
+      "TITULO": "LA PALEONTOLOGIA EN 100 PREGUNTAS",
+      "AUTOR": "Oliver Adriana",
+      "AR$": "AR$ 1.859,00"
+   },
+   {
+      "ID": 26,
+      "TITULO": "BIOLOGIA",
+      "AUTOR": "Audesirk Teresa",
+      "AR$": "AR$ 3.260,00"
+   },
+   {
+      "ID": 27,
+      "TITULO": "EVOLUCION",
+      "AUTOR": "Parker Steve",
+      "AR$": "AR$ 3.050,00"
+   },
+   {
+      "ID": 28,
+      "TITULO": "CEREBROS EN CONSTRUCCION",
+      "AUTOR": "Manes Facundo",
+      "AR$": "AR$ 1.710,00"
+   },
+   {
+      "ID": 29,
+      "TITULO": "FUNDAMENTOS DE FOTOMETRIA ASTRO..",
+      "AUTOR": "Galidi Enriquez David",
+      "AR$": "AR$ 1.999,00"
+   },
+   {
+      "ID": 30,
+      "TITULO": "EL SOL",
+      "AUTOR": "Ruiz Fernandez Javier",
+      "AR$": "AR$ 1.999,00"
+   },
+   {
+      "ID": 31,
+      "TITULO": "LOROS . SANOS Y FELICES",
+      "AUTOR": "Haupt Thomas",
+      "AR$": "AR$ 1.387,00"
+   },
+   {
+      "ID": 32,
+      "TITULO": "PERIQUITOS CUIDADOS CRIANZA VAR..",
+      "AUTOR": "Miller Evelyn",
+      "AR$": "AR$ 1.018,00"
+   },
+   {
+      "ID": 33,
+      "TITULO": "L - ARGININA . SUPER PRODUCTO N..",
+      "AUTOR": "Clippinger Gaspar",
+      "AR$": "AR$ 919,00"
+   },
+   {
+      "ID": 34,
+      "TITULO": "ACEITES ESENCIALES",
+      "AUTOR": "Dufort Julianne",
+      "AR$": "AR$ 1.664,00"
+   },
+   {
+      "ID": 35,
+      "TITULO": "GEOLOGIA IMPRESCINDIBLE",
+      "AUTOR": "Lopez Jose Pablo",
+      "AR$": "AR$ 1.240,00"
+   },
+   {
+      "ID": 36,
+      "TITULO": "CAMBIO CLIMATICO ECONOMIA Y DES..",
+      "AUTOR": "Fazio Horacio",
+      "AR$": "AR$ 840,00"
+   },
+   {
+      "ID": 37,
+      "TITULO": "CACTUS ARGENTINOS : 30 ESPECIES..",
+      "AUTOR": "Kiesling Roberto",
+      "AR$": "AR$ 1.300,00"
+   },
+   {
+      "ID": 38,
+      "TITULO": "LA CIENCIA ES ESO QUE NOS PASA..",
+      "AUTOR": "Golombek Diego",
+      "AR$": "AR$ 1.100,00"
+   },
+   {
+      "ID": 39,
+      "TITULO": "DICCIONARIO LEXUS DE MEDICINA Y..",
+      "AUTOR": "Aa.Vv",
+      "AR$": "AR$ 4.890,00"
+   },
+   {
+      "ID": 40,
+      "TITULO": "MANUAL DE CRIANZA DE ANIMALES",
+      "AUTOR": "",
+      "AR$": "AR$ 5.490,00"
+   },
+   {
+      "ID": 41,
+      "TITULO": "INTELIGENCIA ANIMAL",
+      "AUTOR": "Pouydebat Emmanuelle",
+      "AR$": "AR$ 2.379,00"
+   },
+   {
+      "ID": 42,
+      "TITULO": "SOMOS POLVO DE ESTRELLAS",
+      "AUTOR": "Maza Sancho Jose Maria",
+      "AR$": "AR$ 890,00"
+   },
+   {
+      "ID": 43,
+      "TITULO": "PORQUE SOLO NOSOTROS ? EVOLUCIO..",
+      "AUTOR": "Berwick Robert",
+      "AR$": "AR$ 1.913,00"
+   },
+   {
+      "ID": 44,
+      "TITULO": "EL PEREGRINO (2 ED.)",
+      "AUTOR": "Baker J.A",
+      "AR$": "AR$ 900,00"
+   },
+   {
+      "ID": 45,
+      "TITULO": "UNIVERSO : EXPLORANDO EL COSMOS",
+      "AUTOR": "",
+      "AR$": "AR$ 6.350,00"
+   },
+   {
+      "ID": 46,
+      "TITULO": "ENSE/ANZA DE LA CIENCIAS NATURA..",
+      "AUTOR": "Veglia Silvia",
+      "AR$": "AR$ 1.130,00"
+   },
+   {
+      "ID": 47,
+      "TITULO": "ORIENTACION Y NAVEGACION TERRESTRE",
+      "AUTOR": "Iztueta Eduardo",
+      "AR$": "AR$ 1.703,00"
+   },
+   {
+      "ID": 48,
+      "TITULO": "ASTRONOMIA",
+      "AUTOR": "Zandanel Armando",
+      "AR$": "AR$ 1.400,00"
+   },
+   {
+      "ID": 49,
+      "TITULO": "BIOQUIMICA ( VOLUMEN 1 )",
+      "AUTOR": "Stryer Lubert L.",
+      "AR$": "AR$ 5.914,50"
+   },
+   {
+      "ID": 50,
+      "TITULO": "BIOQUIMICA ( VOLUMEN 2 )",
+      "AUTOR": "Stryer Lubert L.",
+      "AR$": "AR$ 3.973,50"
+   },
+   {
+      "ID": 51,
+      "TITULO": "LA BIOQUIMICA EN 100 PREGUNTAS",
+      "AUTOR": "Abanades Daniel R.",
+      "AR$": "AR$ 1.859,00"
+   },
+   {
+      "ID": 52,
+      "TITULO": "ENCICLOPEDIA DE CIENCIA - INSECTOS",
+      "AUTOR": "Aa.Vv",
+      "AR$": "AR$ 637,00"
+   },
+   {
+      "ID": 53,
+      "TITULO": "PECES DE LAGOS Y RIOS - BIBLIOT..",
+      "AUTOR": "Aa.Vv",
+      "AR$": "AR$ 637,00"
+   },
+   {
+      "ID": 54,
+      "TITULO": "UNO MAS UNO IGUAL A UNO",
+      "AUTOR": "Archibald John",
+      "AR$": "AR$ 3.490,00"
+   },
+   {
+      "ID": 55,
+      "TITULO": "INTERMEZZOS",
+      "AUTOR": "Casinos Adria",
+      "AR$": "AR$ 2.450,00"
+   },
+   {
+      "ID": 56,
+      "TITULO": "ATLAS DE MAPAS",
+      "AUTOR": "Bonnett Alastair",
+      "AR$": "AR$ 3.350,00"
+   },
+   {
+      "ID": 57,
+      "TITULO": "MANUAL DEL OBSERVADOR DE AVES",
+      "AUTOR": "Narosky Tito",
+      "AR$": "AR$ 2.750,00"
+   },
+   {
+      "ID": 58,
+      "TITULO": "HERBARIO",
+      "AUTOR": "Barman Adrienne",
+      "AR$": "AR$ 3.100,00"
+   },
+   {
+      "ID": 59,
+      "TITULO": "MARAVILLAS ALADAS DE LA ARGENTINA",
+      "AUTOR": "Klimaitis Juan Francisco",
+      "AR$": "AR$ 1.650,00"
+   },
+   {
+      "ID": 60,
+      "TITULO": "LUZ AZUL",
+      "AUTOR": "Villanueva Ulyses",
+      "AR$": "AR$ 2.529,00"
+   },
+   {
+      "ID": 61,
+      "TITULO": "ANIMALES EN PELIGRO",
+      "AUTOR": "Affif Marcelo",
+      "AR$": "AR$ 1.650,00"
+   },
+   {
+      "ID": 62,
+      "TITULO": "AVES ARGENTINAS: 30 ESPECIES EM..",
+      "AUTOR": "Narosky Tito",
+      "AR$": "AR$ 1.300,00"
+   },
+   {
+      "ID": 63,
+      "TITULO": "DESCODIFICACION BIOLOGICA",
+      "AUTOR": "Fleche Christian",
+      "AR$": "AR$ 2.370,00"
+   },
+   {
+      "ID": 64,
+      "TITULO": "LA CIENCIA EN EL AULA",
+      "AUTOR": "Gellon Gabriel",
+      "AR$": "AR$ 1.090,00"
+   },
+   {
+      "ID": 65,
+      "TITULO": "SISTEMAS DE CAPTURA DE LA INFOR..",
+      "AUTOR": "Arozamena Antonio",
+      "AR$": "AR$ 3.699,00"
+   },
+   {
+      "ID": 66,
+      "TITULO": "SISTEMAS DE INFORMACION GEOGRAFICA",
+      "AUTOR": "Ortega Perez Emilio",
+      "AR$": "AR$ 3.536,00"
+   },
+   {
+      "ID": 67,
+      "TITULO": "100 AVES ARGENTINAS",
+      "AUTOR": "Canervari Pablo",
+      "AR$": "AR$ 1.750,00"
+   },
+   {
+      "ID": 68,
+      "TITULO": "DICCIONARIO DE ECOLOGIA",
+      "AUTOR": "Godoy Emiliano",
+      "AR$": "AR$ 2.500,00"
+   },
+   {
+      "ID": 69,
+      "TITULO": "OVEJAS Y OVEJEROS EN LA PATAGONIA",
+      "AUTOR": "Coronato Fernando",
+      "AR$": "AR$ 1.130,00"
+   },
+   {
+      "ID": 70,
+      "TITULO": "BAJO LA PIEL DEL OCEANO",
+      "AUTOR": "Pedros Alio Carlos",
+      "AR$": "AR$ 939,00"
+   },
+   {
+      "ID": 71,
+      "TITULO": "METEOROS Y METEORITOS",
+      "AUTOR": "Madiedo Jose Maria",
+      "AR$": "AR$ 2.001,50"
+   },
+   {
+      "ID": 72,
+      "TITULO": "PLANTAS MEDICINALES SILVESTRES..",
+      "AUTOR": "Aguero Ezequiel",
+      "AR$": "AR$ 3.150,00"
+   },
+   {
+      "ID": 73,
+      "TITULO": "AVES RIOPLATENSES",
+      "AUTOR": "Guller Roberto",
+      "AR$": "AR$ 1.750,00"
+   },
+   {
+      "ID": 74,
+      "TITULO": "AVES DE ARGENTINA - RETRATOS Y..",
+      "AUTOR": "Narosky Tito",
+      "AR$": "AR$ 850,00"
+   },
+   {
+      "ID": 75,
+      "TITULO": "EL FUTURO DE LA VIDA EN LA TIERRA",
+      "AUTOR": "Reeves Hubert",
+      "AR$": "AR$ 650,00"
+   },
+   {
+      "ID": 76,
+      "TITULO": "TU GUIA DE LA NATURALEZA",
+      "AUTOR": "Leach Michael",
+      "AR$": "AR$ 1.590,00"
+   },
+   {
+      "ID": 77,
+      "TITULO": "2. BIOQUIMICA",
+      "AUTOR": "Devlin Thomas M.",
+      "AR$": "AR$ 6.573,50"
+   },
+   {
+      "ID": 78,
+      "TITULO": "BIOQUIMICA CUANTITATIVA ( VOLUM..",
+      "AUTOR": "Macarulla Jose M.",
+      "AR$": "AR$ 3.111,50"
+   },
+   {
+      "ID": 79,
+      "TITULO": "LA CIENCIA DE LOS DINOSAURIOS E..",
+      "AUTOR": "Mora Cuadrado Jaime",
+      "AR$": "AR$ 1.859,00"
+   },
+   {
+      "ID": 80,
+      "TITULO": "LA CIENCIA Y LOS MONSTRUOS",
+      "AUTOR": "Plata Rosas Luis Javier",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 81,
+      "TITULO": "OTRO MAPA DE LA VIOLENCIA",
+      "AUTOR": "Zubieta Ana Maria",
+      "AR$": "AR$ 773,00"
+   },
+   {
+      "ID": 82,
+      "TITULO": "LA SOCIEDAD GASEOSA",
+      "AUTOR": "Royo Alberto",
+      "AR$": "AR$ 839,00"
+   },
+   {
+      "ID": 83,
+      "TITULO": "BAUEN EL HOTEL DE LOS TRABAJADORES",
+      "AUTOR": "Ruggeri Andres, Balaguer Emiliano",
+      "AR$": "AR$ 675,00"
+   },
+   {
+      "ID": 84,
+      "TITULO": "GRAMATICAS DE LA ACCION SOCIAL",
+      "AUTOR": "Lemieux Cyril",
+      "AR$": "AR$ 800,00"
+   },
+   {
+      "ID": 85,
+      "TITULO": "LA VIDA EN OTROS PLANETAS",
+      "AUTOR": "Carter Spencer",
+      "AR$": "AR$ 1.192,00"
+   },
+   {
+      "ID": 86,
+      "TITULO": "RELIGION, GENERO Y SEXUALIDAD",
+      "AUTOR": "Schickendantz Carlos",
+      "AR$": "AR$ 830,00"
+   },
+   {
+      "ID": 87,
+      "TITULO": "DESCODIFICACION BIOLOGICA DE LO..",
+      "AUTOR": "Fleche Christian",
+      "AR$": "AR$ 2.370,00"
+   },
+   {
+      "ID": 88,
+      "TITULO": "DESCODIFICACION BIOLOGICA DE LO..",
+      "AUTOR": "Fleche Christian",
+      "AR$": "AR$ 2.370,00"
+   },
+   {
+      "ID": 89,
+      "TITULO": "THE WORLD ENCYCLOPEDIA OF FISH..",
+      "AUTOR": "Whitman Kate",
+      "AR$": "AR$ 1.360,00"
+   },
+   {
+      "ID": 90,
+      "TITULO": "POR UN MEDIO AMBIENTE SANO",
+      "AUTOR": "Rodriguez Garavito Cesar",
+      "AR$": "AR$ 1.100,00"
+   },
+   {
+      "ID": 91,
+      "TITULO": "A VUELO DE PAJARO",
+      "AUTOR": "Emery Nathan",
+      "AR$": "AR$ 3.809,00"
+   },
+   {
+      "ID": 92,
+      "TITULO": "GENOMICA",
+      "AUTOR": "Meyer Pablo",
+      "AR$": "AR$ 880,00"
+   },
+   {
+      "ID": 93,
+      "TITULO": "50 TEMAS DE BIOLOGIA Y TEORIAS..",
+      "AUTOR": "Vv.Aa",
+      "AR$": "AR$ 2.595,00"
+   },
+   {
+      "ID": 94,
+      "TITULO": "DIBUJO ASTRONOMICO",
+      "AUTOR": "Ana Hernandez Leonor",
+      "AR$": "AR$ 2.411,00"
+   },
+   {
+      "ID": 95,
+      "TITULO": "OBSERVACION DE ESTRELLAS DOBLES",
+      "AUTOR": "Benavides Rafael",
+      "AR$": "AR$ 1.999,00"
+   },
+   {
+      "ID": 96,
+      "TITULO": "BIOLOGIA MOLECULAR Y CITOGENETICA",
+      "AUTOR": "Vv.Aa",
+      "AR$": "AR$ 3.306,00"
+   },
+   {
+      "ID": 97,
+      "TITULO": "INTRODUCCION A LOS METODOS MATE..",
+      "AUTOR": "Sola Conde Luis Eduardo",
+      "AR$": "AR$ 2.670,50"
+   },
+   {
+      "ID": 98,
+      "TITULO": "TRAFICO DE FAUNA",
+      "AUTOR": "Farioli Homero Angel",
+      "AR$": "AR$ 1.150,00"
+   },
+   {
+      "ID": 99,
+      "TITULO": "PLANTAS DEL CENTRO DE ARGENTINA",
+      "AUTOR": "Karlin Marcos",
+      "AR$": "AR$ 1.900,00"
+   },
+   {
+      "ID": 100,
+      "TITULO": "AVES DE LAS SIERRAS CENTRALES D..",
+      "AUTOR": "Balla Raul",
+      "AR$": "AR$ 1.850,00"
+   },
+   {
+      "ID": 101,
+      "TITULO": "BICHOS DE CAMPO",
+      "AUTOR": "Carman Raul",
+      "AR$": "AR$ 1.400,00"
+   },
+   {
+      "ID": 102,
+      "TITULO": "MANUAL PRCTICO SOBRE SERPIENTES..",
+      "AUTOR": "Carman Raul",
+      "AR$": "AR$ 850,00"
+   },
+   {
+      "ID": 103,
+      "TITULO": "VACA MUERTA",
+      "AUTOR": "Perez Roig Diego",
+      "AR$": "AR$ 500,00"
+   },
+   {
+      "ID": 104,
+      "TITULO": "LA BIOLOGIA EN 100 PREGUNTAS",
+      "AUTOR": "Pozuelo Echegaray Jaione",
+      "AR$": "AR$ 1.859,00"
+   },
+   {
+      "ID": 105,
+      "TITULO": "HOMBRES DEL ZODIACO",
+      "AUTOR": "Ashoka",
+      "AR$": "AR$ 600,00"
+   },
+   {
+      "ID": 106,
+      "TITULO": "LA CIENCIA EN BIG BANG",
+      "AUTOR": "Sabadell Miguel Angel",
+      "AR$": "AR$ 2.380,00"
+   },
+   {
+      "ID": 107,
+      "TITULO": "SEXO SALVAJE",
+      "AUTOR": "Cabrera Ricardo",
+      "AR$": "AR$ 450,00"
+   },
+   {
+      "ID": 108,
+      "TITULO": "GUIA DEFINITIVA DEL REINO ANIMAL",
+      "AUTOR": "Penalva Nuria",
+      "AR$": "AR$ 1.850,00"
+   },
+   {
+      "ID": 109,
+      "TITULO": "ASTRONOMIA PARA SER ENTENDIDA",
+      "AUTOR": "Costa Oscar Eduardo",
+      "AR$": "AR$ 480,00"
+   },
+   {
+      "ID": 110,
+      "TITULO": "CIENCIAS DE LA TIERRA 10/E (+ LAB)",
+      "AUTOR": "Tarbuck Edward",
+      "AR$": "AR$ 6.054,00"
+   },
+   {
+      "ID": 111,
+      "TITULO": "EL BARMAN CIENTIFICO",
+      "AUTOR": "Di Genova Facundo",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 112,
+      "TITULO": "SISTEMAS DE INFORMACION GEOGRAFIA",
+      "AUTOR": "Buzai Gustavo",
+      "AR$": "AR$ 815,00"
+   },
+   {
+      "ID": 113,
+      "TITULO": "BIOLOGIA DE LOS MICROORGANISMOS",
+      "AUTOR": "Madigan Michael",
+      "AR$": "AR$ 8.569,00"
+   },
+   {
+      "ID": 114,
+      "TITULO": "NATURALEZA FASCINANTE",
+      "AUTOR": "Rose Christina",
+      "AR$": "AR$ 599,00"
+   },
+   {
+      "ID": 115,
+      "TITULO": "HAMSTERS: SABER CUIDARLOS Y COM..",
+      "AUTOR": "Von Frisch Otto",
+      "AR$": "AR$ 380,00"
+   },
+   {
+      "ID": 116,
+      "TITULO": "INSECTOS: GUIA PARA SU IDENTIFI..",
+      "AUTOR": "Gersteimer Roland",
+      "AR$": "AR$ 250,00"
+   },
+   {
+      "ID": 117,
+      "TITULO": "PAPAGAYOS Y PERIQUITOS: COMO ID..",
+      "AUTOR": "Kolar Kurt",
+      "AR$": "AR$ 250,00"
+   },
+   {
+      "ID": 118,
+      "TITULO": "DESCODIFICACION BIOLOGICA DE LO..",
+      "AUTOR": "Fleche Christian",
+      "AR$": "AR$ 2.370,00"
+   },
+   {
+      "ID": 119,
+      "TITULO": "BAMBUES Y OTRAS GRAMINEAS",
+      "AUTOR": "",
+      "AR$": "AR$ 575,00"
+   },
+   {
+      "ID": 120,
+      "TITULO": "MIRADA ANIMAL",
+      "AUTOR": "Pibai Adriana",
+      "AR$": "AR$ 660,00"
+   },
+   {
+      "ID": 121,
+      "TITULO": "ENCICLOPEDIA DE LAS PALMERAS",
+      "AUTOR": "",
+      "AR$": "AR$ 575,00"
+   },
+   {
+      "ID": 122,
+      "TITULO": "700 PLANTAS TREPADORAS",
+      "AUTOR": "",
+      "AR$": "AR$ 575,00"
+   },
+   {
+      "ID": 123,
+      "TITULO": "CIENCIA A PULMON",
+      "AUTOR": "Stagnaro Adriana",
+      "AR$": "AR$ 1.090,00"
+   },
+   {
+      "ID": 124,
+      "TITULO": "FUNDAMENTOS DE MEDICINA LEGAL",
+      "AUTOR": "Basile Alejandro",
+      "AR$": "AR$ 1.450,00"
+   },
+   {
+      "ID": 125,
+      "TITULO": "EL CONTINENTE DE LOS COLIBRIES",
+      "AUTOR": "Suchantke Andreas",
+      "AR$": "AR$ 2.270,00"
+   },
+   {
+      "ID": 126,
+      "TITULO": "BOTANICA EN LA ESCUELA",
+      "AUTOR": "Kovacs Charles",
+      "AR$": "AR$ 640,00"
+   },
+   {
+      "ID": 127,
+      "TITULO": "BIOQUIMICA ( 2 VOLUMENES )",
+      "AUTOR": "Devlin Thomas M.",
+      "AR$": "AR$ 13.133,00"
+   },
+   {
+      "ID": 128,
+      "TITULO": "2. AVES ARGENTINAS",
+      "AUTOR": "De La Pe\u00f1a Martin",
+      "AR$": "AR$ 988,00"
+   },
+   {
+      "ID": 129,
+      "TITULO": "EL LENGUAJE DE LAS NUBES",
+      "AUTOR": "Zandanel Armando Eugenio",
+      "AR$": "AR$ 920,00"
+   },
+   {
+      "ID": 130,
+      "TITULO": "MISIONES MARIPOSAS = BUTTERFLI..",
+      "AUTOR": "Nu\u00f1ez Bustos Ezequiel",
+      "AR$": "AR$ 1.690,00"
+   },
+   {
+      "ID": 131,
+      "TITULO": "MICROCOSMOS = MICROCOSMOS = MIC..",
+      "AUTOR": "Nu\u00f1ez Bustos Ezequiel",
+      "AR$": "AR$ 1.690,00"
+   },
+   {
+      "ID": 132,
+      "TITULO": "EL TELESCOPIO DE LAS ESTRELLAS",
+      "AUTOR": "Golombek Daniel",
+      "AR$": "AR$ 650,00"
+   },
+   {
+      "ID": 133,
+      "TITULO": "NEUROMAGIA",
+      "AUTOR": "Rieznik Andres",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 134,
+      "TITULO": "EVOLUCIONARIOS . EL POTENCIAL E..",
+      "AUTOR": "Phipps Carter",
+      "AR$": "AR$ 2.333,00"
+   },
+   {
+      "ID": 135,
+      "TITULO": "LIBRO AZUL DE LA DECODIFICACION..",
+      "AUTOR": "Bouron Enrique",
+      "AR$": "AR$ 2.930,00"
+   },
+   {
+      "ID": 136,
+      "TITULO": "NUEVOS MUNDOS",
+      "AUTOR": "Minniti Dante",
+      "AR$": "AR$ 760,00"
+   },
+   {
+      "ID": 137,
+      "TITULO": "ASPECTOS JURIDICOS DEL DIAGNOST..",
+      "AUTOR": "Miranda Joaquim",
+      "AR$": "AR$ 800,00"
+   },
+   {
+      "ID": 138,
+      "TITULO": "LAS NEURONAS DE DIOS",
+      "AUTOR": "Golombek Diego",
+      "AR$": "AR$ 850,00"
+   },
+   {
+      "ID": 139,
+      "TITULO": "GEOLOGIA Y MANEJO COSTERO",
+      "AUTOR": "Marcomini Silvia",
+      "AR$": "AR$ 423,00"
+   },
+   {
+      "ID": 140,
+      "TITULO": "BIOTECNOLOGIA EN TODOS LADOS",
+      "AUTOR": "Diaz Alberto",
+      "AR$": "AR$ 650,00"
+   },
+   {
+      "ID": 141,
+      "TITULO": "BIOQUIMICA",
+      "AUTOR": "Stryer",
+      "AR$": "AR$ 8.032,50"
+   },
+   {
+      "ID": 142,
+      "TITULO": "TRATADO DE VARIEDADES DE HORTALIZAS",
+      "AUTOR": "Mathias Xavier",
+      "AR$": "AR$ 8.485,00"
+   },
+   {
+      "ID": 143,
+      "TITULO": "VIAJE AL CENTRO DE LA TIERRA",
+      "AUTOR": "Ruiz Diego",
+      "AR$": "AR$ 650,00"
+   },
+   {
+      "ID": 144,
+      "TITULO": "EMBRIOLOGIA Y ANATOMIA VETERINA..",
+      "AUTOR": "Climent Peris Salvador",
+      "AR$": "AR$ 7.103,00"
+   },
+   {
+      "ID": 145,
+      "TITULO": "II. EMBRIOLOGIA Y ANATOMIA VETE..",
+      "AUTOR": "Climent Peris",
+      "AR$": "AR$ 6.607,00"
+   },
+   {
+      "ID": 146,
+      "TITULO": "SIMPLEMENTE SANGRE",
+      "AUTOR": "Castillo Luis",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 147,
+      "TITULO": "DICCIONARIO ARISTOS DE GEOGRAFI..",
+      "AUTOR": "",
+      "AR$": "AR$ 390,00"
+   },
+   {
+      "ID": 148,
+      "TITULO": "BIOINGENIERIA",
+      "AUTOR": "Valentinuzzi Maximo",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 149,
+      "TITULO": "LA HUMANIDAD DEL GENOMA",
+      "AUTOR": "Kornblihtt Alberto",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 150,
+      "TITULO": "BREVE HISTORIA DE LA ASTRONOMIA",
+      "AUTOR": "Rodriguez Cardona Angel",
+      "AR$": "AR$ 1.642,00"
+   },
+   {
+      "ID": 151,
+      "TITULO": "SOLOS EN EL UNIVERSO",
+      "AUTOR": "Gribbin John",
+      "AR$": "AR$ 4.690,00"
+   },
+   {
+      "ID": 152,
+      "TITULO": "TEXTOS ESENCIALES",
+      "AUTOR": "Darwin Charles",
+      "AR$": "AR$ 1.100,00"
+   },
+   {
+      "ID": 153,
+      "TITULO": "SALUD REPRODUCTIVA Y DERECHO A..",
+      "AUTOR": "Siede Liliana",
+      "AR$": "AR$ 570,00"
+   },
+   {
+      "ID": 154,
+      "TITULO": "ENTRE EL CRIMEN Y EL DERECHO",
+      "AUTOR": "Klein Laura",
+      "AR$": "AR$ 780,00"
+   },
+   {
+      "ID": 155,
+      "TITULO": "LA BIOLOGIA DE LA TRANSFORMACION",
+      "AUTOR": "Lipton Bruce H., Bhaerman Steve",
+      "AR$": "AR$ 2.400,00"
+   },
+   {
+      "ID": 156,
+      "TITULO": "POR TI NO PASAN LOS A\u00d1OS",
+      "AUTOR": "Wolpert Lewis",
+      "AR$": "AR$ 1.100,00"
+   },
+   {
+      "ID": 157,
+      "TITULO": "EL TEOREMA DEL PATITO FEO",
+      "AUTOR": "Plata Rosas Luis Javier",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 158,
+      "TITULO": "DIALOGOS Y CONTRAPUNTOS BIOETICOS",
+      "AUTOR": "Hooft Lynette",
+      "AR$": "AR$ 950,00"
+   },
+   {
+      "ID": 159,
+      "TITULO": "MANUAL DE MICROSCOPIA",
+      "AUTOR": "Kremer B. P.",
+      "AR$": "AR$ 6.684,00"
+   },
+   {
+      "ID": 160,
+      "TITULO": "MANUAL CULTIVO HORTALIZAS MACETA",
+      "AUTOR": "Smith E. C.",
+      "AR$": "AR$ 5.792,50"
+   },
+   {
+      "ID": 161,
+      "TITULO": "ARBOLES GUIAS DE LA NATURALEZA",
+      "AUTOR": "Russell T.",
+      "AR$": "AR$ 5.346,50"
+   },
+   {
+      "ID": 162,
+      "TITULO": "LAS PLANTAS COMPATIBLES EN EL HU",
+      "AUTOR": "Riotte",
+      "AR$": "AR$ 4.084,00"
+   },
+   {
+      "ID": 163,
+      "TITULO": "EL MAR",
+      "AUTOR": "Demmler P.",
+      "AR$": "AR$ 3.713,50"
+   },
+   {
+      "ID": 164,
+      "TITULO": "DEL POZO AL SURTIDOR",
+      "AUTOR": "Lucchini Cristina, San Roman Cristina",
+      "AR$": "AR$ 1.110,00"
+   },
+   {
+      "ID": 165,
+      "TITULO": "CIENCIA EN EL AIRE",
+      "AUTOR": "Ruiz Diego Manuel",
+      "AR$": "AR$ 650,00"
+   },
+   {
+      "ID": 166,
+      "TITULO": "LAS IMAGENES DEL UNIVERSO",
+      "AUTOR": "Levinas Marcelo Leonardo",
+      "AR$": "AR$ 1.100,00"
+   },
+   {
+      "ID": 167,
+      "TITULO": "MARAVILLAS DEL SISTEMA SOLAR",
+      "AUTOR": "Cohen Andrew, Cox Brian",
+      "AR$": "AR$ 1.650,00"
+   },
+   {
+      "ID": 168,
+      "TITULO": "EL DERECHO A MORIR",
+      "AUTOR": "Iglesias Cortina Abel",
+      "AR$": "AR$ 650,00"
+   },
+   {
+      "ID": 169,
+      "TITULO": "LA RELACION TERAPEUTICA",
+      "AUTOR": "Salas Zamorano Patricio",
+      "AR$": "AR$ 350,00"
+   },
+   {
+      "ID": 170,
+      "TITULO": "MODELO PARA ARMAR",
+      "AUTOR": "Cagliani Martin",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 171,
+      "TITULO": "DEMOLIENDO PAPERS",
+      "AUTOR": "Golombek Diego",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 172,
+      "TITULO": "UNA TUMBA PARA LOS ROMANOV",
+      "AUTOR": "Alzogaray Raul",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 173,
+      "TITULO": "NOSOTROS Y EL UNIVERSO",
+      "AUTOR": "Tiemblo Alfredo",
+      "AR$": "AR$ 2.870,00"
+   },
+   {
+      "ID": 174,
+      "TITULO": "IMPLICACIONES JURIDICAS DEL DIA..",
+      "AUTOR": "Lafferriere Jorge Nicolas",
+      "AR$": "AR$ 2.302,50"
+   },
+   {
+      "ID": 175,
+      "TITULO": "OSVALDO REIG",
+      "AUTOR": "Ponsa Fontanals Montserrat",
+      "AR$": "AR$ 453,00"
+   },
+   {
+      "ID": 176,
+      "TITULO": "ADN EL DETECTOR DE MENTIRAS",
+      "AUTOR": "Bernath Viviana",
+      "AR$": "AR$ 2.089,00"
+   },
+   {
+      "ID": 177,
+      "TITULO": "FRAUDES Y MISTIFICACIONES EN PU..",
+      "AUTOR": "Garcia Puga Agustin F., Pergola Federico",
+      "AR$": "AR$ 1.000,00"
+   },
+   {
+      "ID": 178,
+      "TITULO": "HISTORIA DE LOS GENES",
+      "AUTOR": "Gallardo Susana",
+      "AR$": "AR$ 850,00"
+   },
+   {
+      "ID": 179,
+      "TITULO": "ESPACIO ESPACIALIDAD Y MULTIDI..",
+      "AUTOR": "Kollmann Marta Isabel",
+      "AR$": "AR$ 775,00"
+   },
+   {
+      "ID": 180,
+      "TITULO": "PARASITOLOGIA GENERAL",
+      "AUTOR": "Lucius Richard, Gottstein Bruno",
+      "AR$": "AR$ 7.021,00"
+   },
+   {
+      "ID": 181,
+      "TITULO": "MISION : LA TIERRA",
+      "AUTOR": "Lorenzen Dirk H.",
+      "AR$": "AR$ 3.950,00"
+   },
+   {
+      "ID": 182,
+      "TITULO": "EL MUNDO PERDIDO DE LOS DINOSAURIOS",
+      "AUTOR": "Michard Jean Guy",
+      "AR$": "AR$ 985,00"
+   },
+   {
+      "ID": 183,
+      "TITULO": "QUE PORQUERIA LAS HORMONAS !",
+      "AUTOR": "Calvo Juan Carlos",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 184,
+      "TITULO": "LIMNOLOGIA",
+      "AUTOR": "Margalef Ramon",
+      "AR$": "AR$ 19.900,50"
+   },
+   {
+      "ID": 185,
+      "TITULO": "MEDICINA DE LOS INVERTEBRADOS",
+      "AUTOR": "Lewbart Gregory A.",
+      "AR$": "AR$ 6.749,50"
+   },
+   {
+      "ID": 186,
+      "TITULO": "BIOLOGIA MOLECULAR DE LA CELULA..",
+      "AUTOR": "Hunt Tim, Wilson John",
+      "AR$": "AR$ 14.405,00"
+   },
+   {
+      "ID": 187,
+      "TITULO": "UN GRAN SI A LA VIDA",
+      "AUTOR": "Iglesias Cortina Abel, Radakoff Diana Isabel",
+      "AR$": "AR$ 350,00"
+   },
+   {
+      "ID": 188,
+      "TITULO": "2. CIENCIAS DE LA TIERRA",
+      "AUTOR": "Lutgens Frederick K., Tarbuck Edward J.",
+      "AR$": "AR$ 3.493,00"
+   },
+   {
+      "ID": 189,
+      "TITULO": "VIAJE A LAS ESTRELLAS",
+      "AUTOR": "Abramson Guillermo",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 190,
+      "TITULO": "LA QUIMICA VERDE",
+      "AUTOR": "Colonna Paul",
+      "AR$": "AR$ 8.522,50"
+   },
+   {
+      "ID": 191,
+      "TITULO": "MENTE Y MATERIA / QUE ES LA VIDA ?",
+      "AUTOR": "Pogue Harrison Robert, Gumbrecht Hans Ulrich",
+      "AR$": "AR$ 750,00"
+   },
+   {
+      "ID": 192,
+      "TITULO": "CIENCIA Y PERIFERIA",
+      "AUTOR": "Kreimer Pablo",
+      "AR$": "AR$ 775,00"
+   },
+   {
+      "ID": 193,
+      "TITULO": "DIAS DE CIENCIA",
+      "AUTOR": "Paladini Alejandro C.",
+      "AR$": "AR$ 680,00"
+   },
+   {
+      "ID": 194,
+      "TITULO": "LA REVOLUCION SILENCIOSA",
+      "AUTOR": "Diaz Alberto",
+      "AR$": "AR$ 990,00"
+   },
+   {
+      "ID": 195,
+      "TITULO": "MECANISMOS MOLECULARES DE ADAPT..",
+      "AUTOR": "Gottig Natalia, Touz Maria Carolina",
+      "AR$": "AR$ 1.073,00"
+   },
+   {
+      "ID": 196,
+      "TITULO": "EL LIBRO DE LOS 1001 PORQUES DE..",
+      "AUTOR": "",
+      "AR$": "AR$ 990,00"
+   },
+   {
+      "ID": 197,
+      "TITULO": "REPENSAR LAS CIENCIAS DE LA VIDA",
+      "AUTOR": "Portnoff Andre Yves, Thomas Daniel",
+      "AR$": "AR$ 990,00"
+   },
+   {
+      "ID": 198,
+      "TITULO": "RIOS DE SANGRE",
+      "AUTOR": "Alzogaray Raul A.",
+      "AR$": "AR$ 990,00"
+   },
+   {
+      "ID": 199,
+      "TITULO": "MISIONES AVES",
+      "AUTOR": "Chebez Juan Carlos, Guller Roberto Mario",
+      "AR$": "AR$ 850,00"
+   },
+   {
+      "ID": 200,
+      "TITULO": "EL UNIVERSO",
+      "AUTOR": "Simanauskas Tristan",
+      "AR$": "AR$ 617,00"
+   },
+   {
+      "ID": 201,
+      "TITULO": "BIOTECNOLOGIA BASICA",
+      "AUTOR": "Kristiansen Bjorn, Ratledge Colin",
+      "AR$": "AR$ 9.250,50"
+   },
+   {
+      "ID": 202,
+      "TITULO": "EL ESPECTRO CONTINUO DE LAS ATM..",
+      "AUTOR": "Claria Juan Jose",
+      "AR$": "AR$ 1.990,00"
+   },
+   {
+      "ID": 203,
+      "TITULO": "EL REMISO MR. DARWIN",
+      "AUTOR": "Quammen David",
+      "AR$": "AR$ 3.181,00"
+   },
+   {
+      "ID": 204,
+      "TITULO": "EL HORNERO",
+      "AUTOR": "Carman Raul L., Narosky Tito",
+      "AR$": "AR$ 1.300,00"
+   },
+   {
+      "ID": 205,
+      "TITULO": "COMO PREDECIR EL TIEMPO",
+      "AUTOR": "Watts Alan",
+      "AR$": "AR$ 4.373,00"
+   },
+   {
+      "ID": 206,
+      "TITULO": "EL SEXO DE LAS LAGARTIJAS",
+      "AUTOR": "Garcia Leal Ambrosio",
+      "AR$": "AR$ 1.000,00"
+   },
+   {
+      "ID": 207,
+      "TITULO": "BIOQUIMICA",
+      "AUTOR": "Muller Esterl Werner",
+      "AR$": "AR$ 6.696,50"
+   },
+   {
+      "ID": 208,
+      "TITULO": "EL ORIGEN DE LOS NOMBRES DE LOS..",
+      "AUTOR": "Otero Edgardo",
+      "AR$": "AR$ 2.400,00"
+   },
+   {
+      "ID": 209,
+      "TITULO": "LOS PENSADORES DE LA JUNGLA",
+      "AUTOR": "Schuster",
+      "AR$": "AR$ 4.750,00"
+   },
+   {
+      "ID": 210,
+      "TITULO": "ANIMAL AFFAIRS",
+      "AUTOR": "Koch Heidi",
+      "AR$": "AR$ 4.750,00"
+   },
+   {
+      "ID": 211,
+      "TITULO": "2. LOS QUE SE VAN FAUNA ARGENT..",
+      "AUTOR": "Chebez Juan Carlos",
+      "AR$": "AR$ 2.500,00"
+   },
+   {
+      "ID": 212,
+      "TITULO": "3. LOS QUE SE VAN FAUNA ARGENT..",
+      "AUTOR": "Chebez Juan Carlos",
+      "AR$": "AR$ 2.500,00"
+   },
+   {
+      "ID": 213,
+      "TITULO": "BIOTECNOLOGIA PARA PRINCIPIANTES",
+      "AUTOR": "Renneberg Reinhard",
+      "AR$": "AR$ 8.086,00"
+   },
+   {
+      "ID": 214,
+      "TITULO": "MEDICINA EN BUSCA DE UN NUEVO P..",
+      "AUTOR": "Lerro Eugenio J., Weinstein Marcos",
+      "AR$": "AR$ 1.000,00"
+   },
+   {
+      "ID": 215,
+      "TITULO": "DINOSAURIOS",
+      "AUTOR": "Blanco Jorge, Chiarelli Pablo",
+      "AR$": "AR$ 1.247,00"
+   },
+   {
+      "ID": 216,
+      "TITULO": "CATACLISMO CLIMATICO",
+      "AUTOR": "Walker Gabrielle",
+      "AR$": "AR$ 2.811,50"
+   },
+   {
+      "ID": 217,
+      "TITULO": "BIOLOGIA CELULAR",
+      "AUTOR": "Shepard Elizabeth A., White Hugh A.",
+      "AR$": "AR$ 7.659,50"
+   },
+   {
+      "ID": 218,
+      "TITULO": "FLORES SILVESTRES DEL MEDITERRA..",
+      "AUTOR": "Fletcher Neil",
+      "AR$": "AR$ 3.416,50"
+   },
+   {
+      "ID": 219,
+      "TITULO": "DINOSAURIOS Y PTEROSAURIOS DE A..",
+      "AUTOR": "Bonaparte Jose F.",
+      "AR$": "AR$ 2.500,00"
+   },
+   {
+      "ID": 220,
+      "TITULO": "REPTILES Y ANFIBIOS",
+      "AUTOR": "Arnold Nicholas",
+      "AR$": "AR$ 6.014,00"
+   },
+   {
+      "ID": 221,
+      "TITULO": "BIOQUIMICA",
+      "AUTOR": "Tymoczko John L., Berg Jeremy M.",
+      "AR$": "AR$ 13.387,50"
+   },
+   {
+      "ID": 222,
+      "TITULO": "BIOQUIMICA DE LOS PROCESOS META..",
+      "AUTOR": "Cuamatzi Tapia Oscar, Melo Ortiz Virginia",
+      "AR$": "AR$ 5.676,50"
+   },
+   {
+      "ID": 223,
+      "TITULO": "EL PETROLEO",
+      "AUTOR": "Newbery Jorge, Thierry Justino C.",
+      "AR$": "AR$ 780,00"
+   },
+   {
+      "ID": 224,
+      "TITULO": "DARWIN Y EL FUNDAMENTALISMO",
+      "AUTOR": "Davies Merryl Wyn",
+      "AR$": "AR$ 1.267,00"
+   },
+   {
+      "ID": 225,
+      "TITULO": "QUE ES EL ALTRUISMO",
+      "AUTOR": "Dugatkin Lee Alan",
+      "AR$": "AR$ 950,00"
+   },
+   {
+      "ID": 226,
+      "TITULO": "BIODIVERSIDAD",
+      "AUTOR": "Gaston Kevin J., Spicer John I.",
+      "AR$": "AR$ 2.553,00"
+   },
+   {
+      "ID": 227,
+      "TITULO": "100 FLORES ARGENTINAS",
+      "AUTOR": "Haene Eduardo",
+      "AR$": "AR$ 1.500,00"
+   },
+   {
+      "ID": 228,
+      "TITULO": "GENETICA FUNDAMENTAL",
+      "AUTOR": "Ringo John",
+      "AR$": "AR$ 6.384,00"
+   },
+   {
+      "ID": 229,
+      "TITULO": "EL HORNERO",
+      "AUTOR": "De Angelis Marcelo, Schulzen Hedda",
+      "AR$": "AR$ 1.900,00"
+   },
+   {
+      "ID": 230,
+      "TITULO": "MARIPOSAS EN LIBERTAD",
+      "AUTOR": "Sesma Moranas Jose Manuel, Cordoba Leon Juan Ramon",
+      "AR$": "AR$ 9.208,00"
+   },
+   {
+      "ID": 231,
+      "TITULO": "EL GRAN AZUL",
+      "AUTOR": "Curtsinger Bill",
+      "AR$": "AR$ 4.650,00"
+   },
+   {
+      "ID": 232,
+      "TITULO": "PROPIEDADES DE LA ROCA Y LOS FL..",
+      "AUTOR": "Bidner Mirtha Susana",
+      "AR$": "AR$ 868,00"
+   },
+   {
+      "ID": 233,
+      "TITULO": "EL MUNDO DE LA CELULA",
+      "AUTOR": "Kleinsmith Lewis J., Becker Wayne M.",
+      "AR$": "AR$ 6.870,00"
+   },
+   {
+      "ID": 234,
+      "TITULO": "LA BIOLOGIA EN NUMEROS",
+      "AUTOR": "Flindt Rainer",
+      "AR$": "AR$ 3.831,00"
+   },
+   {
+      "ID": 235,
+      "TITULO": "EL MAR",
+      "AUTOR": "Calcagno Javier, Lovrich Gustavo",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 236,
+      "TITULO": "LA CREACION",
+      "AUTOR": "Wilson Edward O.",
+      "AR$": "AR$ 750,00"
+   },
+   {
+      "ID": 237,
+      "TITULO": "CONSTRUYA SU TELESCOPIO Y ALGUN..",
+      "AUTOR": "Ruiz Morales Jorge",
+      "AR$": "AR$ 7.905,00"
+   },
+   {
+      "ID": 238,
+      "TITULO": "FUNDAMENTOS DE HIDROGEOLOGIA",
+      "AUTOR": "Martinez Santos Pedro, Martinez Alfaro Pedro E.",
+      "AR$": "AR$ 4.622,00"
+   },
+   {
+      "ID": 239,
+      "TITULO": "SEXO DROGAS Y BIOLOGIA",
+      "AUTOR": "Golombek Diego",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 240,
+      "TITULO": "GUERRA BIOLOGICA Y BIOTERRORISMO",
+      "AUTOR": "Lema Martin",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 241,
+      "TITULO": "BIOTECNOLOGIA AMBIENTAL",
+      "AUTOR": "Blasco Pla Rafael, Castillo Rodriguez Francisco",
+      "AR$": "AR$ 3.755,50"
+   },
+   {
+      "ID": 242,
+      "TITULO": "OCEANOGRAFIA AMBIENTAL",
+      "AUTOR": "Alonso Del Rosario Jose Juan",
+      "AR$": "AR$ 2.018,50"
+   },
+   {
+      "ID": 243,
+      "TITULO": "AVES DE SUDAMERICA",
+      "AUTOR": "Rumboll Maurice, Erize Francisco",
+      "AR$": "AR$ 5.467,00"
+   },
+   {
+      "ID": 244,
+      "TITULO": "PLANTAS BACTERIAS HONGOS MI..",
+      "AUTOR": "Wall Luis Gabriel",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 245,
+      "TITULO": "GRACIAS TIBURON",
+      "AUTOR": "Gonzalo Manuel",
+      "AR$": "AR$ 980,00"
+   },
+   {
+      "ID": 246,
+      "TITULO": "ECLIPSES DE SOL Y LUNA TRANSITO..",
+      "AUTOR": "Lutz Harald",
+      "AR$": "AR$ 3.564,50"
+   },
+   {
+      "ID": 247,
+      "TITULO": "EL CREACIONISMO VAYA TIMO !",
+      "AUTOR": "Carmena Ernesto",
+      "AR$": "AR$ 1.728,00"
+   },
+   {
+      "ID": 248,
+      "TITULO": "QUE ES ( Y QUE NO ES ) LA EVOLUCION",
+      "AUTOR": "Levin Luciano, Rossi Maria Susana",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 249,
+      "TITULO": "BIOTECNOLOGIA",
+      "AUTOR": "Smith John E.",
+      "AR$": "AR$ 3.553,50"
+   },
+   {
+      "ID": 250,
+      "TITULO": "LAS PLANTAS ENTRE EL SUELO Y E..",
+      "AUTOR": "Casal Jorge",
+      "AR$": "AR$ 415,00"
+   },
+   {
+      "ID": 251,
+      "TITULO": "REPRODUCCION HUMANA",
+      "AUTOR": "Tesone Marta",
+      "AR$": "AR$ 388,00"
+   },
+   {
+      "ID": 252,
+      "TITULO": "EVOLUCION Y SELECCION NATURAL",
+      "AUTOR": "Hasson Esteban",
+      "AR$": "AR$ 373,00"
+   },
+   {
+      "ID": 253,
+      "TITULO": "LOS GECOS",
+      "AUTOR": "Millefanti Massimo",
+      "AR$": "AR$ 450,00"
+   },
+   {
+      "ID": 254,
+      "TITULO": "3. NORDESTE GUIA DE LAS RESERV..",
+      "AUTOR": "Chebez Juan Carlos",
+      "AR$": "AR$ 1.950,00"
+   },
+   {
+      "ID": 255,
+      "TITULO": "EL LEGADO DE DARWIN",
+      "AUTOR": "Dupre John",
+      "AR$": "AR$ 555,00"
+   },
+   {
+      "ID": 256,
+      "TITULO": "FISICA BIOLOGICA",
+      "AUTOR": "Nelson Philip",
+      "AR$": "AR$ 5.272,00"
+   },
+   {
+      "ID": 257,
+      "TITULO": "SEXUALIDAD Y PROCREACION HUMANA",
+      "AUTOR": "Di Pietro Maria Luisa",
+      "AR$": "AR$ 600,00"
+   },
+   {
+      "ID": 258,
+      "TITULO": "BIO ... QUE ?",
+      "AUTOR": "Diaz Alberto",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 259,
+      "TITULO": "GUIA DE ROCAS Y MINERALES",
+      "AUTOR": "Schumann Walter",
+      "AR$": "AR$ 7.260,50"
+   },
+   {
+      "ID": 260,
+      "TITULO": "EL DERECHO A MORIR",
+      "AUTOR": "Humphry Derek, Wickett Ann",
+      "AR$": "AR$ 880,00"
+   },
+   {
+      "ID": 261,
+      "TITULO": "PITON REAL Y BOA CONSTRICTOR",
+      "AUTOR": "Millefanti Massimo",
+      "AR$": "AR$ 450,00"
+   },
+   {
+      "ID": 262,
+      "TITULO": "2. PATAGONIA AUSTRAL GUIA DE L..",
+      "AUTOR": "Chebez Juan Carlos",
+      "AR$": "AR$ 1.950,00"
+   },
+   {
+      "ID": 263,
+      "TITULO": "DINOSAURIOS Y VIDA PREHISTORICA..",
+      "AUTOR": "Richardson Hazel",
+      "AR$": "AR$ 5.792,50"
+   },
+   {
+      "ID": 264,
+      "TITULO": "UN MUNDO DE HORMIGAS",
+      "AUTOR": "Farji Brener Alejandro G., Folgarait Patricia J.",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 265,
+      "TITULO": "LOS REPTILES",
+      "AUTOR": "Garcia Artiga Carlos, De Gaspar Simon Ignacio",
+      "AR$": "AR$ 1.885,00"
+   },
+   {
+      "ID": 266,
+      "TITULO": "QUORUM SENSING",
+      "AUTOR": "Fabregas Casal Jaime, Bernardez Hermida Maria Isabel",
+      "AR$": "AR$ 2.170,00"
+   },
+   {
+      "ID": 267,
+      "TITULO": "CIELITO LINDO",
+      "AUTOR": "Rosenvasser Feher Elsa",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 268,
+      "TITULO": "MARTE Y VIDA",
+      "AUTOR": "Luque Bartolo, Marquez Alvaro",
+      "AR$": "AR$ 1.317,50"
+   },
+   {
+      "ID": 269,
+      "TITULO": "LAS RANAS Y LOS SAPOS",
+      "AUTOR": "Caratozzolo Simone",
+      "AR$": "AR$ 575,00"
+   },
+   {
+      "ID": 270,
+      "TITULO": "LAS ARA\u00d1AS GIGANTES",
+      "AUTOR": "Caratozzolo Simone",
+      "AR$": "AR$ 450,00"
+   },
+   {
+      "ID": 271,
+      "TITULO": "BACTERIAS EN BIOLOGIA BIOTECNOL..",
+      "AUTOR": "Singleton Paul",
+      "AR$": "AR$ 6.875,00"
+   },
+   {
+      "ID": 272,
+      "TITULO": "EL HUEVO Y LA GALLINA",
+      "AUTOR": "Gellon Gabriel",
+      "AR$": "AR$ 550,00"
+   },
+   {
+      "ID": 273,
+      "TITULO": "FAUNA Y SOCIEDAD ARGENTINA",
+      "AUTOR": "Foguelman Dina, Zeballos De Sisto Maria C.",
+      "AR$": "AR$ 540,00"
+   },
+   {
+      "ID": 274,
+      "TITULO": "CEREBRO",
+      "AUTOR": "Golombek Diego A.",
+      "AR$": "AR$ 400,00"
+   },
+   {
+      "ID": 275,
+      "TITULO": "BOTANICA",
+      "AUTOR": "Valla Juan J.",
+      "AR$": "AR$ 1.400,00"
+   },
+   {
+      "ID": 276,
+      "TITULO": "QUIMICA BIOINORGANICA",
+      "AUTOR": "Ochiai Ei Ichiro",
+      "AR$": "AR$ 6.348,50"
+   },
+   {
+      "ID": 277,
+      "TITULO": "100 MAMIFEROS ARGENTINOS",
+      "AUTOR": "Canevari Marcelo, Fernandez Balboa Carlos",
+      "AR$": "AR$ 1.500,00"
+   },
+   {
+      "ID": 278,
+      "TITULO": "BIOFISICA",
+      "AUTOR": "Glaser Roland",
+      "AR$": "AR$ 5.540,00"
+   },
+   {
+      "ID": 279,
+      "TITULO": "CAMELLOS SIN JOROBA",
+      "AUTOR": "Vila Bibiana",
+      "AR$": "AR$ 400,00"
+   },
+   {
+      "ID": 280,
+      "TITULO": "LA HIBRIDACION DE LOS PAJAROS",
+      "AUTOR": "Ravazzi Gianni",
+      "AR$": "AR$ 575,00"
+   },
+   {
+      "ID": 281,
+      "TITULO": "VIRUS EMERGENTES LA AMENAZANA..",
+      "AUTOR": "Escarmis Homs Cristina, Lazaro Lazaro Ester",
+      "AR$": "AR$ 2.108,00"
+   },
+   {
+      "ID": 282,
+      "TITULO": "INTRODUCCION A LA BIOESTADISTICA",
+      "AUTOR": "Rohlf F. James, Sokal Robert R.",
+      "AR$": "AR$ 2.016,00"
+   },
+   {
+      "ID": 283,
+      "TITULO": "ECOLOGIA MICROBIANA Y MICROBIOL..",
+      "AUTOR": "Atlas Ronald M., Bartha Richard",
+      "AR$": "AR$ 3.213,00"
+   },
+   {
+      "ID": 284,
+      "TITULO": "EL OESTE AMERICANO",
+      "AUTOR": "Montagu Jean Yves, Thomas Alain",
+      "AR$": "AR$ 2.950,00"
+   },
+   {
+      "ID": 285,
+      "TITULO": "BIOTECNOLOGIA MEDIOAMBIENTAL",
+      "AUTOR": "Scragg Alan",
+      "AR$": "AR$ 4.119,50"
+   },
+   {
+      "ID": 286,
+      "TITULO": "ANALISIS DE LIPIDOS",
+      "AUTOR": "Hawthorne J. N., Hemming F. W.",
+      "AR$": "AR$ 2.650,50"
+   },
+   {
+      "ID": 287,
+      "TITULO": "PARQUES NACIONALES DE FILIPINAS",
+      "AUTOR": "Hicks Nigel",
+      "AR$": "AR$ 1.375,00"
+   },
+   {
+      "ID": 288,
+      "TITULO": "INTRODUCCION A LA GENETICA CUAN..",
+      "AUTOR": "Falconer D. S., Mackay Trudy F. C.",
+      "AR$": "AR$ 6.344,00"
+   },
+   {
+      "ID": 289,
+      "TITULO": "HUELLAS DE ADN EN GENOMAS DE PL..",
+      "AUTOR": "Kahl Gunter, Valadez Moctezuma Ernestina",
+      "AR$": "AR$ 9.068,00"
+   },
+   {
+      "ID": 290,
+      "TITULO": "MANUAL DE MINERALOGIA ( VOLUMEN 2 )",
+      "AUTOR": "Hurlbut Cornelius S., Klein Cornelius",
+      "AR$": "AR$ 3.547,50"
+   },
+   {
+      "ID": 291,
+      "TITULO": "NUESTRO SISTEMA SOLAR Y SU LUGA..",
+      "AUTOR": "Ross Taylor Stuart",
+      "AR$": "AR$ 3.044,00"
+   },
+   {
+      "ID": 292,
+      "TITULO": "BALAS COSMICAS PARTICULAS DE AL..",
+      "AUTOR": "Clay Roger, Dawson Bruce",
+      "AR$": "AR$ 1.767,00"
+   },
+   {
+      "ID": 293,
+      "TITULO": "LA EVOLUCION DE NUESTRO UNIVERSO",
+      "AUTOR": "Longair Malcolm S.",
+      "AR$": "AR$ 4.433,50"
+   },
+   {
+      "ID": 294,
+      "TITULO": "BIOQUIMICA",
+      "AUTOR": "Bradley Armstrong Frank, Peter Bennett Thomas",
+      "AR$": "AR$ 4.284,00"
+   },
+   {
+      "ID": 295,
+      "TITULO": "ODISEA DE UN ASTRONAUTA",
+      "AUTOR": "Allen Joseph P.",
+      "AR$": "AR$ 3.588,00"
+   },
+   {
+      "ID": 296,
+      "TITULO": "DICCIONARIO DE BIOQUIMICA Y BIO..",
+      "AUTOR": "Beffa Roland, Widmer Francois",
+      "AR$": "AR$ 3.123,50"
+   },
+   {
+      "ID": 297,
+      "TITULO": "LA IGUANA",
+      "AUTOR": "Millefanti Massimo",
+      "AR$": "AR$ 450,00"
+   },
+   {
+      "ID": 298,
+      "TITULO": "COLISIONES COSMICAS",
+      "AUTOR": "Desonie Dana",
+      "AR$": "AR$ 3.564,50"
+   },
+   {
+      "ID": 299,
+      "TITULO": "GENETICA MOLECULAR HUMANA",
+      "AUTOR": "Read Andrew P., Strachan Tom",
+      "AR$": "AR$ 14.849,50"
+   },
+   {
+      "ID": 300,
+      "TITULO": "BIOTECNOLOGIA",
+      "AUTOR": "Zachgo Eve Ann, Becker Jeffrey M.",
+      "AR$": "AR$ 3.270,00"
+   },
+   {
+      "ID": 301,
+      "TITULO": "INTRODUCCION A LA MICROBIOLOGIA..",
+      "AUTOR": "Ingraham John L., Ingrahan Catherine A.",
+      "AR$": "AR$ 4.364,50"
+   },
+   {
+      "ID": 302,
+      "TITULO": "INTRODUCCION A LA MICROBIOLOGIA..",
+      "AUTOR": "Ingraham John L., Ingrahan Catherine A.",
+      "AR$": "AR$ 3.274,50"
+   },
+   {
+      "ID": 303,
+      "TITULO": "GENES VOL. 2",
+      "AUTOR": "Lewin Benjamin",
+      "AR$": "AR$ 3.507,50"
+   },
+   {
+      "ID": 304,
+      "TITULO": "MANUAL DE MINERALOGIA ( VOLUMEN 1 )",
+      "AUTOR": "Hulbut Cornelius S., Klein Cornelis",
+      "AR$": "AR$ 2.891,50"
+   },
+   {
+      "ID": 305,
+      "TITULO": "EL NASHI",
+      "AUTOR": "Ctifl",
+      "AR$": "AR$ 4.110,50"
+   },
+   {
+      "ID": 306,
+      "TITULO": "II. ATLAS CLASIFICATORIO DE LA..",
+      "AUTOR": "Garcia Rollan M.",
+      "AR$": "AR$ 12.021,50"
+   },
+   {
+      "ID": 307,
+      "TITULO": "PECES DE MAR ATLANTICO Y MEDITE..",
+      "AUTOR": "Muus Bent J., Nielsen Jorgen G.",
+      "AR$": "AR$ 5.792,50"
+   },
+   {
+      "ID": 308,
+      "TITULO": "LA LIEBRE",
+      "AUTOR": "Rodriguez Alonso Mariano",
+      "AR$": "AR$ 5.659,50"
+   },
+   {
+      "ID": 309,
+      "TITULO": "10. ZOOTECNIA PRODUCCION CUNICO..",
+      "AUTOR": "Buxade Carbo Carlos (Coord.)",
+      "AR$": "AR$ 2.373,00"
+   },
+   {
+      "ID": 310,
+      "TITULO": "ENCICLOPEDIA CONCISA DE BIOQUIMICA",
+      "AUTOR": "Scott",
+      "AR$": "AR$ 8.426,00"
+   },
+   {
+      "ID": 311,
+      "TITULO": "BIOLOGIA MOLECULAR Y BIOTECNOLOGIA",
+      "AUTOR": "Walker J.M.",
+      "AR$": "AR$ 6.393,50"
+   },
+   {
+      "ID": 312,
+      "TITULO": "MINERALES ESTUDIO Y RECONOCIMIENTO",
+      "AUTOR": "Gonzalez Angel",
+      "AR$": "AR$ 7.171,50"
+   },
+   {
+      "ID": 313,
+      "TITULO": "METEOROS",
+      "AUTOR": "Trigo I Rodriguez Josep Maria",
+      "AR$": "AR$ 5.006,50"
+   },
+   {
+      "ID": 314,
+      "TITULO": "BIOQUIMICA AGROINDUSTRIAL",
+      "AUTOR": "Linden G.",
+      "AR$": "AR$ 5.401,50"
+   },
+   {
+      "ID": 315,
+      "TITULO": "GESTION DE ZONAS COSTERAS POLIT..",
+      "AUTOR": "Ocde",
+      "AR$": "AR$ 7.528,00"
+   },
+   {
+      "ID": 316,
+      "TITULO": "ESTRELLAS Y CONSTELACIONES",
+      "AUTOR": "Roth",
+      "AR$": "AR$ 3.416,50"
+   },
+   {
+      "ID": 317,
+      "TITULO": "FOSILES MANUALES DE IDENTIFICACION",
+      "AUTOR": "Walker Cyril, Ward David",
+      "AR$": "AR$ 5.421,50"
+   },
+   {
+      "ID": 318,
+      "TITULO": "MANUAL DE OBSERVACION Y FOTOGRA..",
+      "AUTOR": "Lacroux",
+      "AR$": "AR$ 4.382,00"
+   },
+   {
+      "ID": 319,
+      "TITULO": "GEMOLOGIA 3 VOL.",
+      "AUTOR": "Cavenago",
+      "AR$": "AR$ 28.959,00"
+   },
+   {
+      "ID": 320,
+      "TITULO": "EL REINO VEGETAL",
+      "AUTOR": "Maze J. R., Rouse G. E.",
+      "AR$": "AR$ 12.770,50"
+   },
+   {
+      "ID": 321,
+      "TITULO": "GEOGRAFIA SINTESIS MODERNA",
+      "AUTOR": "Haggett",
+      "AR$": "AR$ 11.435,50"
+   },
+   {
+      "ID": 322,
+      "TITULO": "INTRODUCCION A LA MICROBIOLOGIA",
+      "AUTOR": "Tortora",
+      "AR$": "AR$ 9.878,00"
+   },
+   {
+      "ID": 323,
+      "TITULO": "GUIA DE PLANTAS TROPICALES",
+      "AUTOR": "Lotschert",
+      "AR$": "AR$ 5.569,50"
+   },
+   {
+      "ID": 324,
+      "TITULO": "GUIA DE LOS ANIMALES PARASITOS..",
+      "AUTOR": "Mourier Henri, Winding Ove",
+      "AR$": "AR$ 5.346,50"
+   },
+   {
+      "ID": 325,
+      "TITULO": "GEOGRAFIA DEL TERCER MUNDO",
+      "AUTOR": "Dickenson",
+      "AR$": "AR$ 5.271,50"
+   },
+   {
+      "ID": 326,
+      "TITULO": "GUIA BASICA DE INSECTOS DE EUROPA",
+      "AUTOR": "Zahradnik",
+      "AR$": "AR$ 5.048,50"
+   },
+   {
+      "ID": 327,
+      "TITULO": "FOSILES",
+      "AUTOR": "Moody",
+      "AR$": "AR$ 4.753,00"
+   },
+   {
+      "ID": 328,
+      "TITULO": "GUIA DE LOS MINERALES",
+      "AUTOR": "Chaumeton",
+      "AR$": "AR$ 4.677,50"
+   },
+   {
+      "ID": 329,
+      "TITULO": "CIENCIAS DE LA TIERRA VOL.1",
+      "AUTOR": "Tarbuck Edward",
+      "AR$": "AR$ 3.377,00"
+   },
+   {
+      "ID": 330,
+      "TITULO": "GEOLOGIA : 2DO BACHILLERATO LOMCE",
+      "AUTOR": "Pozo Rodriguez Manuel",
+      "AR$": "AR$ 3.168,00"
+   },
+   {
+      "ID": 331,
+      "TITULO": "BIOLOGIA MOLECULAR DE LAS PLANTAS",
+      "AUTOR": "Grierson D.",
+      "AR$": "AR$ 2.982,50"
+   },
+   {
+      "ID": 332,
+      "TITULO": "PEQUE\u00d1A GUIA DE LOS HONGOS DE E..",
+      "AUTOR": "Neuner",
+      "AR$": "AR$ 2.376,00"
+   },
+   {
+      "ID": 333,
+      "TITULO": "INTERVENCION EN LA ATENCION SOC..",
+      "AUTOR": "Gallardo Mu\u00f1oz Inmaculada",
+      "AR$": "AR$ 1.563,00"
+   },
+   {
+      "ID": 334,
+      "TITULO": "LO MEJOR ESTA EN TI",
+      "AUTOR": "Perrucci Cristina",
+      "AR$": "AR$ 507,00"
+   },
+   {
+      "ID": 335,
+      "TITULO": "AVES DE BUENOS AIRES",
+      "AUTOR": "Boano Victoria",
+      "AR$": "AR$ 920,00"
+   },
+   {
+      "ID": 336,
+      "TITULO": "LAS PLANTAS MAS SUCULENTAS DEL..",
+      "AUTOR": "Garcia Sergio",
+      "AR$": "AR$ 2.600,00"
+   },
+   {
+      "ID": 337,
+      "TITULO": "LOS PICAFLORES MAS AUSTRALES DE..",
+      "AUTOR": "Veiga Jorge",
+      "AR$": "AR$ 1.600,00"
+   },
+   {
+      "ID": 338,
+      "TITULO": "BIOLOGIA . METODO DE AUTOAPREND..",
+      "AUTOR": "Fester Kratz Rene",
+      "AR$": "AR$ 2.700,00"
+   },
+   {
+      "ID": 339,
+      "TITULO": "BIOQUIMICA DE LOS PROCESOS META..",
+      "AUTOR": "Melo Virginia",
+      "AR$": "AR$ 4.426,00"
+   },
+   {
+      "ID": 340,
+      "TITULO": "BOTANICA APLICADA",
+      "AUTOR": "Molina Abril Jose Antonio",
+      "AR$": "AR$ 5.842,50"
+   },
+   {
+      "ID": 341,
+      "TITULO": "FUNDAMENTOS DE BIOQUIMICA ESTRU..",
+      "AUTOR": "Teijon Rivera Jose Maria",
+      "AR$": "AR$ 7.168,50"
+   },
+   {
+      "ID": 342,
+      "TITULO": "FUNDAMENTOS DE BIOQUIMICA METAB..",
+      "AUTOR": "Teijon Jose Maria",
+      "AR$": "AR$ 7.168,50"
+   },
+   {
+      "ID": 343,
+      "TITULO": "PRINCIPIOS DE BIOETICA GLOBAL",
+      "AUTOR": "Capo Marti Miguel Andres",
+      "AR$": "AR$ 2.018,50"
+   },
+   {
+      "ID": 344,
+      "TITULO": "MANUAL PRACTICO DE PAJAROS EXOTICOS",
+      "AUTOR": "Fischer Rod",
+      "AR$": "AR$ 1.018,00"
+   },
+   {
+      "ID": 345,
+      "TITULO": "COMPENDIO DE GEOLOGIA GENERAL",
+      "AUTOR": "Rojas Caballero David",
+      "AR$": "AR$ 2.440,50"
+   },
+   {
+      "ID": 346,
+      "TITULO": "CONOCE A TU AVE DE COMPA\u00d1IA",
+      "AUTOR": "Isique Huaroma Julio",
+      "AR$": "AR$ 729,50"
+   },
+   {
+      "ID": 347,
+      "TITULO": "PLANTAS CULTIVADAS DE LA ARGENTINA",
+      "AUTOR": "Hurrell",
+      "AR$": "AR$ 3.300,00"
+   },
+   {
+      "ID": 348,
+      "TITULO": "METODOLOGIA DE LA INVESTIGACION..",
+      "AUTOR": "Lonardi Pablo, Oliva Miguel",
+      "AR$": "AR$ 1.200,00"
+   }
+]
